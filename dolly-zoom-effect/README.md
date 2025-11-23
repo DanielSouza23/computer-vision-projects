@@ -3,6 +3,7 @@
 This project implements a 3D rendering–based dolly zoom effect, stereo image generation, and disparity map estimation using rank/census transforms and Hamming distance. 
 It uses a point-cloud scene, custom camera poses, and Open3D for synthetic image creation.
 
+Note: The dataset file `data/data.obj` (~267 MB) is not included in this repository due to its size.
 ---
 
 ## Features
@@ -23,7 +24,4 @@ It uses a point-cloud scene, custom camera poses, and Open3D for synthetic image
 - Cost aggregation windows: 5×5, 9×9, 15×15
 
 ---
-
-
-https://github.com/user-attachments/assets/072f7e49-56a1-44cc-bc32-f10a33c5a8bf
 
