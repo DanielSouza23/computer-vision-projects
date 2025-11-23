@@ -24,3 +24,10 @@ Projects coded in either MATLAB or Python.
 - Voxel carving
 - Silhouette intersection
 - Surface extraction & PLY generation
+
+---
+## 3D Rendering & Camera Manipulation
+- Implements a dolly zoom using a 3D point cloud renderer.
+- Dynamically adjusts focal length while moving the camera to preserve subject scale.
+- Generates a video sequence and stereo image pair using custom projection matrices.
+- Includes depth-aware rendering, focal scaling, and point-cloud visualization.
