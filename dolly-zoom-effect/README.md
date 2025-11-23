@@ -4,6 +4,7 @@ This project implements a 3D rendering–based dolly zoom effect, stereo image g
 It uses a point-cloud scene, custom camera poses, and Open3D for synthetic image creation.
 
 Note: The dataset file `data/data.obj` (~267 MB) is not included in this repository due to its size.
+
 ---
 
 ## Features
