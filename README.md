@@ -6,6 +6,10 @@ Projects coded in either MATLAB or Python.
 ## Projects 
 
 ## Homography Estimation & Image Warping
+- Direct Linear Transform (DLT)
+- Point & line-based homography estimation
+- Bilinear interpolation
+- Top-down rectified view
 
 ## Stereo Vision & Disparity Estimation 
 - Rank/Census transforms
