@@ -26,3 +26,4 @@ Note: The dataset file `data/data.obj` (~267 MB) is not included in this reposit
 
 ---
 
+[dolly_zoom.webm](https://github.com/user-attachments/assets/2a8a55b6-11b3-4f00-a8aa-6b9698bf7044)
