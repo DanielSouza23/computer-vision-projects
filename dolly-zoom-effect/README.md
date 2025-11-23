@@ -10,12 +10,11 @@ It uses a point-cloud scene, custom camera poses, and Open3D for synthetic image
 ### Dolly Zoom Rendering
 - Loads foreground/background point clouds.
 - Renders 75+ frames with changing focal length.
-- Produces a smooth **dolly zoom** video (`dolly_zoom.mp4`).
+- Produces a smooth video (`dolly_zoom.mp4`).
 
 ### Stereo Image Generation
 - Computes left/right images using a virtual stereo baseline.
 - Converts rendered images to grayscale.
-- Saves results as `left_gray.png` and `right_gray.png`.
 
 ### Disparity Estimation
 - Rank and Census transforms (5×5)
